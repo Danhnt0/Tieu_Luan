@@ -1,0 +1,6 @@
+neural-structured-learning
+numpy
+tensorflow
+matplotlib
+opencv-python
+h5py
