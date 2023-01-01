@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import tensorflow as tf
 
-image = cv2.imread("Image/test1.jpg")
+image = cv2.imread("Image/test2.jpg")
 #image = cv2.resize(image,(192,79))
 copy = image.copy()
 

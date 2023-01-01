@@ -13,7 +13,7 @@ pool_size = (2, 2)
 num_fc_units = [64]
 batch_size = 32
 epochs = 5
-adv_multiplier = 0.2
+adv_multiplier = 0.1
 adv_step_size = 0.2
 adv_grad_norm = 'infinity'
 
